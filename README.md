@@ -3,4 +3,4 @@ portafolio
 
 
 ## url proyecto
-[link](https://github.io/AF-MN)
+[link](https://AF-MN.github.io/prueba)
